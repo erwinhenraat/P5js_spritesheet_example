@@ -7,7 +7,7 @@ function preload(){
 
   anim[0] = loadImage('assets/idle.png');
   anim[1] = loadImage('assets/walk.png');
-  anim[2] = loadImage('assets/test.png');
+ 
 
 }
 function setup() {
